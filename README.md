@@ -1,2 +1,3 @@
-# EasyAuth
-Predesigned sign in &amp; sign up UI for app inventor.
+## EasyAuth
+
+An App Inventor 2 extension created using Rush.
